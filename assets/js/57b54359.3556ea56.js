@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkanimated_succotash=self.webpackChunkanimated_succotash||[]).push([[940],{7722:t=>{t.exports=JSON.parse('{"title":"Middlit","description":"Middleware.","slug":"/category/middlit","permalink":"/animated-succotash/docs/category/middlit","navigation":{"next":{"title":"Getting Started","permalink":"/animated-succotash/docs/middlit/intro"}}}')}}]);
