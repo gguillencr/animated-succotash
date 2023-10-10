@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkanimated_succotash=self.webpackChunkanimated_succotash||[]).push([[4767],{2139:a=>{a.exports=JSON.parse('{"permalink":"/animated-succotash/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
