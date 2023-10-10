@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkanimated_succotash=self.webpackChunkanimated_succotash||[]).push([[5842],{725:a=>{a.exports=JSON.parse('{"label":"hello","permalink":"/animated-succotash/blog/tags/hello","allTagsPath":"/animated-succotash/blog/tags","count":2}')}}]);
